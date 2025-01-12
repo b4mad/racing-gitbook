@@ -2,16 +2,30 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Overview
+* [Vision & Mission](overview/vision.md)
+* [Why B4mad Racing](overview/why.md)
+* [Technical Background](overview/technical.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## Platform
+* [Core Features](platform/features.md)
+* [Products](platform/products.md)
+* [Architecture](platform/architecture.md)
 
-## Basics
+## Tokenomics
+* [BRRR Token](tokenomics/token.md)
+* [Token Utility](tokenomics/utility.md)
+* [Token Distribution](tokenomics/distribution.md)
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+## Community & Governance
+* [DAO Structure](governance/dao.md)
+* [Community Participation](governance/participation.md)
+* [Team](governance/team.md)
+
+## Development
+* [Roadmap](development/roadmap.md)
+* [Technology Stack](development/tech-stack.md)
+* [Current Implementation](development/implementation.md)
+
+## Resources
+* [Links & References](resources/links.md)
