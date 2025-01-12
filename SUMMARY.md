@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 
 ## Overview
-* [Vision & Mission](overview/vision.md)
+* [Vision & Mission](overview/vision.md) 
 * [Why B4mad Racing](overview/why.md)
 * [Technical Background](overview/technical.md)
 
@@ -12,7 +12,7 @@
 * [Products](platform/products.md)
 * [Architecture](platform/architecture.md)
 
-## Tokenomics
+## Tokenomics 
 * [BRRR Token](tokenomics/token.md)
 * [Token Utility](tokenomics/utility.md)
 * [Token Distribution](tokenomics/distribution.md)
