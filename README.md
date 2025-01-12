@@ -20,9 +20,18 @@ layout:
 
 # B4mad eSports Platform
 
-## The Open Platform for eSports Data & Intelligence
+## Your Gateway to Intelligent Gaming Services
 
-Welcome to B4mad - the comprehensive platform enabling developers and professionals to build intelligent, data-driven services for the eSports community. Starting with our successful sim racing implementation, we're expanding to support multiple gaming genres through blockchain-verified achievements and advanced analytics.
+Welcome to B4mad - the open platform revolutionizing eSports through data-driven intelligence. We provide the infrastructure and tools for developers, coaches, and gaming professionals to build next-generation services that enhance competitive gaming.
+
+Our platform combines:
+- Universal data collection across gaming genres
+- AI-powered performance analysis and coaching
+- Blockchain-verified achievements and records
+- Developer-friendly SDK and marketplace
+- Community-driven service ecosystem
+
+Starting with our successful sim racing implementation, we're expanding to empower the entire eSports community.
 
 ### Quick Links
 
