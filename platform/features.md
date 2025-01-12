@@ -8,6 +8,9 @@
 - Community marketplace
 - Web3 integration
 - Real-time data processing
+- Integrated transaction and billing system
+- Cross-game achievements system
+- Community-driven marketplace
 
 ## Genre-Specific Features
 ### Racing (Flagship)

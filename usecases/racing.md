@@ -9,6 +9,8 @@ Our flagship implementation demonstrates the platform's capabilities through sim
 - AI-powered coaching
 - Real-time telemetry analysis
 - Community-driven development
+- Embedded in #1 racing tool (thecrewchief.org)
+- 18 months of continuous development
 
 ## Current Features
 ### Data Collection
