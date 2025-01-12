@@ -6,6 +6,7 @@
 - Growth Rate: 21.5% CAGR
 - Professional Teams: 5000+
 - Major Tournaments: 300+ annually
+- Cross-genre Opportunities: $6.75B by 2030
 
 ## Target Markets
 ### By Genre
