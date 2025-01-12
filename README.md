@@ -1,8 +1,5 @@
 ---
 icon: cube
-# cover: assets/logo-main-black.png
-# coverY: 0
-# width: 100%
 layout:
   cover:
     visible: true
