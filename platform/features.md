@@ -4,12 +4,16 @@
 - Unique driver names with blockchain-verified profiles
 - Immutable racing history across multiple games
 - Transparent record of profile changes and achievements
+- Cross-platform reputation system
+- Social connections and team management
 
 ## Telemetry Collection
 - Lightweight local collection agents
 - Support for multiple racing simulation games
 - Secure data upload and storage
 - Common format conversion for cross-game compatibility
+- Real-time data streaming
+- Historical data analysis
 
 ## Analytics & Insights
 ### Free Tier Features
@@ -17,6 +21,8 @@
 - Statistical analysis dashboards
 - League rankings and classifications
 - Personal data download options
+- Community leaderboards
+- Basic performance metrics
 
 ### Premium Features
 - Complete telemetry data access
@@ -25,3 +31,15 @@
 - Personalized car setup suggestions
 - NFT-based unique liveries
 - Cross-game championship participation
+- Professional coaching integration
+- Custom analytics reports
+- Team performance tracking
+- Advanced AI training modules
+
+## Competition Features
+- Automated tournament organization
+- Smart contract prize pools
+- Cross-game championships
+- Team-based competitions
+- Seasonal rankings
+- Achievement NFTs
