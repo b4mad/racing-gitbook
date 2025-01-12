@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# B4mad eSports Platform
+# #B4mad eSports Platform
 
 ## Your Gateway to Intelligent Gaming Services
 
