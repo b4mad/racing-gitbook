@@ -1,6 +1,6 @@
 ---
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+icon: racing-flag
+cover: assets/header-racing.jpg
 coverY: 0
 layout:
   cover:
@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -18,12 +18,37 @@ layout:
     visible: true
 ---
 
-# Welcome
+# B4mad Racing
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Your trusted Track Record to accelerate your racing career
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to B4mad Racing - the platform that enables sim racers to build and validate their racing careers through blockchain-verified achievements and comprehensive telemetry data analysis.
 
-### Jump right in
+### Quick Links
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Vision & Mission</strong></td>
+      <td>Learn about our goals</td>
+      <td><a href="overview/vision.md">vision.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Platform Features</strong></td>
+      <td>Explore our capabilities</td>
+      <td><a href="platform/features.md">features.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>Get Started</strong></td>
+      <td>Join the community</td>
+      <td><a href="governance/participation.md">participation.md</a></td>
+    </tr>
+  </tbody>
+</table>

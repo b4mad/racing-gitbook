@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [B4mad Racing](README.md)
 
 ## Overview
 * [Vision & Mission](overview/vision.md) 
