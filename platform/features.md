@@ -1,13 +1,35 @@
 # Core Platform Features
 
-## Identity & Achievement System
-- Universal player profiles with blockchain verification
-- Cross-game achievement tracking
-- Reputation and ranking systems
-- Team and community management
-- Web3-powered identity and assets
-- Achievement NFTs and badges
-- Genre-specific leaderboards
+## Universal Platform Services
+- Cross-genre player profiles with blockchain verification
+- Multi-game achievement tracking and progression
+- AI-powered performance analytics
+- Developer SDK and APIs
+- Community marketplace
+- Web3 integration
+- Real-time data processing
+
+## Genre-Specific Features
+### Racing (Flagship)
+- Telemetry analysis
+- Track learning assistance
+- Setup optimization
+- Race strategy planning
+- Team management
+
+### FPS
+- Aim precision metrics
+- Movement pattern analysis
+- Team coordination tools
+- Weapon usage optimization
+- Map positioning insights
+
+### RTS/MOBA
+- Resource management analytics
+- Build order optimization
+- Team fight analysis
+- Meta strategy recommendations
+- Performance predictions
 
 ## Data Infrastructure
 - Game-specific telemetry collectors
