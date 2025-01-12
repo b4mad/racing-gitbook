@@ -1,6 +1,6 @@
 ---
-icon: racing-flag
-cover: assets/header-racing.jpg
+icon: cube
+cover: assets/header-platform.jpg
 coverY: 0
 layout:
   cover:
@@ -18,11 +18,11 @@ layout:
     visible: true
 ---
 
-# B4mad Racing
+# B4mad eSports Platform
 
-## Your trusted Track Record to accelerate your racing career
+## The Open Platform for eSports Data & Intelligence
 
-Welcome to B4mad Racing - the platform that enables sim racers to build and validate their racing careers through blockchain-verified achievements and comprehensive telemetry data analysis.
+Welcome to B4mad - the comprehensive platform enabling developers and professionals to build intelligent, data-driven services for the eSports community. Starting with our successful sim racing implementation, we're expanding to support multiple gaming genres through blockchain-verified achievements and advanced analytics.
 
 ### Quick Links
 

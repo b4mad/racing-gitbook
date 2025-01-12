@@ -1,26 +1,33 @@
 # Table of contents
 
-* [B4mad Racing](README.md)
+* [B4mad eSports Platform](README.md)
 
-## Overview
-* [Vision & Mission](overview/vision.md) 
-* [Why B4mad Racing](overview/why.md)
-* [Technical Background](overview/technical.md)
+## Platform Overview
+* [Vision & Mission](overview/vision.md)
+* [Why B4mad Platform](overview/why.md)
+* [Technical Foundation](overview/technical.md)
 
-## Platform
+## Platform Architecture
 * [Core Features](platform/features.md)
-* [Products](platform/products.md)
-* [Architecture](platform/architecture.md)
+* [Data Infrastructure](platform/infrastructure.md)
+* [Developer SDK](platform/sdk.md)
+* [Integration APIs](platform/api.md)
 
-## Tokenomics 
-* [Market Analysis](tokenomics/market.md)
-* [BRRR Token](tokenomics/token.md)
-* [Token Utility](tokenomics/utility.md)
-* [Token Distribution](tokenomics/distribution.md)
+## Use Cases
+* [Sim Racing](usecases/racing.md)
+* [Future Genres](usecases/future.md)
+* [Success Stories](usecases/stories.md)
+
+## Economics
+* [Market Analysis](economics/market.md)
+* [Business Model](economics/model.md)
+* [Token Economy](economics/token.md)
+* [Revenue Streams](economics/revenue.md)
 
 ## Community & Governance
 * [DAO Structure](governance/dao.md)
-* [Community Participation](governance/participation.md)
+* [Community Roles](governance/roles.md)
+* [Participation](governance/participation.md)
 * [Team](governance/team.md)
 
 ## Development
@@ -29,4 +36,5 @@
 * [Current Implementation](development/implementation.md)
 
 ## Resources
+* [Documentation](resources/docs.md)
 * [Links & References](resources/links.md)

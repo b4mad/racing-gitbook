@@ -1,31 +1,46 @@
 # Market Analysis
 
-## Market Size
-- iRacing: 200,000+ subscribers
-- Combined 24-hour peaks: ~30,000 concurrent players
-- Racedepartment.com: 2 million registered members
+## Global eSports Market
+- Market Size: $3.8B (2023)
+- Player Base: 3.4B globally
+- Growth Rate: 21.5% CAGR
+- Professional Teams: 5000+
+- Major Tournaments: 300+ annually
 
-## Target Market
-- Total Addressable Market: 1,000,000 potential users
-- Expected Free Tier: 250,000 registered users (25% conversion)
-- Expected Paid Tier: 25,000 subscribers (10% conversion)
+## Target Markets
+### By Genre
+- Racing Simulation: 1M+ active users
+- FPS Games: 500M+ players
+- RTS Games: 100M+ players
+- MOBA: 250M+ active players
+
+### By User Type
+- Professional Teams & Organizations
+- Amateur Competitive Players
+- Content Creators & Coaches
+- Casual Players seeking improvement
+- Game Developers & Publishers
 
 ## Revenue Projections
-- Average subscription: $5 USD/month
-- Projected monthly revenue: $125,000 USD
-- Additional revenue streams:
-  - NFT sales
-  - Premium features
-  - Professional coaching
-  - Partnership integrations
+- Platform Fees: 15-30% of transactions
+- Subscription Services: $5-50 USD/month
+- Data Analytics: Enterprise pricing
+- Additional Revenue Streams:
+  - NFT Marketplace
+  - Premium API Access
+  - White Label Solutions
+  - Professional Services
 
 ## Competitors
-- simracing.gp (Racedepartment.com)
-- Various telemetry tools
-- Racing analytics platforms
+- Grid.gg: eSports data platform
+- Genre-specific trainers (Aim Lab, VRS)
+- Coaching platforms (ProGuides, GamerSensei)
+- Game-specific analytics tools
 
 ## Competitive Advantages
-- Cross-game compatibility
-- Blockchain-verified records
+- Multi-genre support
+- Open platform architecture
+- AI-powered insights
+- Blockchain verification
 - Community-driven development
-- Comprehensive analytics
+- Enterprise-grade infrastructure

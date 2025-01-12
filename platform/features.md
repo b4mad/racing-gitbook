@@ -1,21 +1,21 @@
-# Core Features
+# Core Platform Features
 
-## Driver Identity System
-- Unique driver names with blockchain-verified profiles
-- Immutable racing history across multiple games
-- Transparent record of profile changes and achievements
+## Identity & Achievement System
+- Blockchain-verified player profiles across games
+- Immutable gaming history and achievements
 - Cross-platform reputation system
 - Social connections and team management
 - Web3-powered identity verification
-- Profile NFT badges and achievements
+- Achievement NFTs and badges
+- Genre-specific rankings and ratings
 
-## Telemetry Collection & Analysis
-- Lightweight local collection agents
-- Support for multiple racing simulation games
+## Data Collection & Analysis
+- Lightweight game-specific collection agents
+- Multi-genre support (Racing, FPS, RTS, etc.)
 - Secure data upload and storage
 - Common format conversion for cross-game compatibility
-- Real-time data streaming
-- Historical data analysis
+- Real-time data streaming and processing
+- Historical performance analysis
 - Machine learning-powered insights
 - Predictive performance modeling
 
