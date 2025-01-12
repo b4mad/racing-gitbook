@@ -1,6 +1,6 @@
 ---
 icon: cube
-cover: assets/header-platform.jpg
+cover: assets/logo-main-black.png
 coverY: 0
 layout:
   cover:
