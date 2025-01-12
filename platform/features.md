@@ -1,34 +1,41 @@
 # Core Platform Features
 
 ## Identity & Achievement System
-- Blockchain-verified player profiles across games
-- Immutable gaming history and achievements
-- Cross-platform reputation system
-- Social connections and team management
-- Web3-powered identity verification
+- Universal player profiles with blockchain verification
+- Cross-game achievement tracking
+- Reputation and ranking systems
+- Team and community management
+- Web3-powered identity and assets
 - Achievement NFTs and badges
-- Genre-specific rankings and ratings
+- Genre-specific leaderboards
 
-## Data Collection & Analysis
-- Lightweight game-specific collection agents
-- Multi-genre support (Racing, FPS, RTS, etc.)
-- Secure data upload and storage
-- Common format conversion for cross-game compatibility
-- Real-time data streaming and processing
-- Historical performance analysis
-- Machine learning-powered insights
-- Predictive performance modeling
+## Data Infrastructure
+- Game-specific telemetry collectors
+- Universal data format adapters
+- Real-time processing pipeline
+- Secure cloud storage
+- Historical analytics
+- AI/ML analysis engine
+- Performance prediction
+- Custom metrics creation
 
-## Analytics & Insights
-### Free Tier Features
-- Basic telemetry visualization
-- Statistical analysis dashboards
-- League rankings and classifications
-- Personal data download options
-- Community leaderboards
-- Basic performance metrics
-- Monthly progress reports
-- Public profile statistics
+## Example Services
+
+### Racing Genre
+- **Your Racing Career**: Cross-game achievements and progression tracking
+- **Club Leaderboards**: Private group competition tracking
+- **Personalized Race Track Guide**: AI-powered real-time coaching
+- **Driving School**: Interactive pro-level training courses
+
+### Other Genres
+- **MontanaBlack Reacts**: Live celebrity reactions and commentary
+- **Chat with Adventure Games**: AI companion for gameplay assistance
+- **StarCraft Strategy Explainer**: Real-time strategy analysis
+- **Adaptive Tutorials**: Skill-based learning progression
+
+### Platform Services
+- **Full API Access**: Build complex service offerings
+- **White Label Solutions**: Customized enterprise implementations
 
 ### Premium Features
 - Complete telemetry data access
