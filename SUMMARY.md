@@ -13,6 +13,7 @@
 * [Architecture](platform/architecture.md)
 
 ## Tokenomics 
+* [Market Analysis](tokenomics/market.md)
 * [BRRR Token](tokenomics/token.md)
 * [Token Utility](tokenomics/utility.md)
 * [Token Distribution](tokenomics/distribution.md)
