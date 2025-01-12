@@ -1,7 +1,7 @@
 # Links & References
 
 ## Documentation
-- [Pitch Deck (PDF)](https://b4mad.github.io/racing-docs/B4mad_eSports_Data_Platform.pdf)
+- [Pitch Deck (PDF)](/docs/B4mad_eSports_Data_Platform.pdf)
 
 ## Official Resources
 - [GitHub Repository](https://github.com/b4mad/racing)
